@@ -1,6 +1,6 @@
 import { db } from "../utils/db.server";
 
-const SITE = "https://www.jobilist.com";
+const SITE = "https:localhost:3000";
 
 const START = `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">`;
 const END = `</urlset>`;

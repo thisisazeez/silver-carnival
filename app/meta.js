@@ -1,12 +1,12 @@
 export const TITLES = {
-  HOME: "Jobilist — A re-imagined job board.",
+  HOME: "HireJunior — A re-imagined job board.",
   POST: "Post new job",
 
   PRIVACY: "Privacy policy",
 };
 
 export const DESCRIPTIONS = {
-  HOME: "A stunning job search engine that helps job seekers find the perfect employment opportunity by connecting them with the best employers around the world.",
+  HOME: "A stunning job search engine that helps Junior Developers find the perfect employment opportunity by connecting them with the best employers around the world.",
   POST: "Reach thousands of qualified potential candidates for open job positions at your organization quickly with our simple yet stunning & affordable platform.",
 
   PRIVACY:

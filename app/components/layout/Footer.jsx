@@ -73,7 +73,7 @@ export default function Footer() {
           </Anchor>
         </div> */}
         <p className="text-xs text-center text-neutral-400">
-          &copy; JobConnect, 2023
+          &copy; HireJunior, 2023
         </p>
       </Container>
     </div>

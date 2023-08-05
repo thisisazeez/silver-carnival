@@ -101,18 +101,18 @@ export default function Header({
               </div>
               <div className="flex flex-row items-center justify-start gap-2">
                 <Code size={18} className="text-indigo-400" />
-                {/* <p className="text-sm">
+                <p className="text-sm">
                   <Anchor
-                    href="https://twitter.com/hypensRoot"
+                    href="https://github.com/thisisazeez/silver-carnival"
                     target="_black"
                     rel="noopener noreferrer"
                     styled={false}
                     className="flex flex-row items-center justify-start gap-1"
                   >
-                    <span>O</span>
+                    <span>Open Source</span>
                     <External size={16} className="text-blue-400" />
                   </Anchor>
-                </p> */}
+                </p>
               </div>
             </div>
           </div>

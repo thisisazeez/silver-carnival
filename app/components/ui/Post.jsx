@@ -26,7 +26,7 @@ export function Post({ post, expanded = false }) {
     >
       <div className="flex flex-row items-start justify-start gap-4">
         <Anchor
-          href={`${post.batch.website}?ref=https://www.jobilist.com`}
+          href={`${post.batch.website}`}
           target="_blank"
           rel="noopener noreferrer"
           styled={false}
@@ -53,7 +53,7 @@ export function Post({ post, expanded = false }) {
                 {post.batch.name}
               </Anchor>
               <Anchor
-                href={`${post.batch.website}?ref=https://www.jobilist.com`}
+                href={`${post.batch.website}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 styled={false}
@@ -123,7 +123,7 @@ export function Post({ post, expanded = false }) {
         {post?.applyLink ? (
           <Button
             as="a"
-            href={`${post.applyLink}?ref=https://www.jobilist.com`}
+            href={`${post.applyLink}`}
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-row items-center justify-center gap-1"
